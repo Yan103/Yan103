@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yan103
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, С/С++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram @Yan_03_0
 
