@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, С/С++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me telegram @Yan_03_0
+- 📫 How to reach me telegram @yan_ya_n3
 
 <!---
 Yan103/Yan103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
